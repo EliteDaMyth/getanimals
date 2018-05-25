@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/EliteDaMyth/getanimals.svg?branch=master)](https://travis-ci.org/EliteDaMyth/getanimals)
 # GetAnimals API
 The getanimals NPM package is an API wrapper for get-animals api.
 
