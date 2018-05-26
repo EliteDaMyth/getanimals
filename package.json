@@ -8,7 +8,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "npm install getanimals && node test/index.js"
+    "test": "node test/index.js"
   },
   "keywords": [
     "animals",
