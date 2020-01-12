@@ -2,15 +2,12 @@
 # GetAnimals API
 The getanimals NPM package is an API wrapper for get-animals api.
 
-there are 8 animals.
+there are 5 animals.
 -   dog
 -   cat
--   lion
--   tiger
--   panda
+-   fox
+-   shiba
 -   bird
--   penguin
--   duck
 
 # Usage 
 
