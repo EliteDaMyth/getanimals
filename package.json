@@ -3,13 +3,9 @@
   "dependencies": {
     "node-fetch": "^2.6.0"
   },
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "An Api wrapper to get animal photos",
   "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "node test/index.js"
-  },
   "keywords": [
     "animals",
     "wrapper",
