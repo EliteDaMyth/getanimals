@@ -1,7 +1,7 @@
 {
   "name": "getanimals",
   "dependencies": {
-    "request": "^2.87.0"
+    "node-fetch": "^2.6.0"
   },
   "version": "2.0.0",
   "description": "An Api wrapper to get animal photos",
