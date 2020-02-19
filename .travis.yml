@@ -1,5 +1,0 @@
-sudo: true
-language: node_js
-node_js:
-  - '7.4.0'
-  - '7.3.0'
